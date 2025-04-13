@@ -1,11 +1,15 @@
 <!-- PROFILE HEADER -->
-<p align="center">
-  <img src="my_image.jpg" alt="Profile" width="150" height="150" style="display: inline-block; vertical-align: middle;" />
-  <span style="display: inline-block; vertical-align: middle; text-align: center;">
-    <h1>Hey, I'm <span style="color:#ffce00">Neil</span> 👋</h1>
-    <p>A passionate <strong>developer</strong> crafting code with creativity and curiosity.</p>
-  </span>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="my_image.jpg" alt="Profile" width="150" height="150" style="border-radius: 50%;" /></td>
+    <td style="padding-left: 20px;">
+      <h1>Hey, I'm <span style="color:#ffce00">Neil</span> 👋</h1>
+      <p>A passionate <strong>developer</strong> crafting code with creativity and curiosity.</p>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
